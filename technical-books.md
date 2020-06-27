@@ -34,3 +34,6 @@
 
 ### Python
 - [ ] "Head First Python" - Paul Barry
+
+### C++
+- [ ] "A Tour of C++" - Bjarne Stroustrup
